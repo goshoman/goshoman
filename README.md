@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @goshoman
 - 👀 I’m interested in playing video games
 - 🌱 I’m currently learning how to code on C#
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
